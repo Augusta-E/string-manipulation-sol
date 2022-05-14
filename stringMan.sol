@@ -63,11 +63,4 @@ contract stringManipulation{
         }
         return string(bLowerCase);
     }
-}
-
-
-
-
-
-   
-    
+}  
