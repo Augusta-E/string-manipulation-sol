@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: UNLICENSED;
 pragma solidity ^0.8.0.0;
 
-contract stringManipulation{
+contract StringManipulation{
     string public str1 = "Congratulations";
 
    //get string function
