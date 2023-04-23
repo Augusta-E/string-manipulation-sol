@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED;
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.0.0;
 
 contract stringManipulation{
-    string str1 = 'Congratulations';
+    string public str1 = "Congratulations";
 
    //get string function
     function getStr() public view returns(string memory) {
